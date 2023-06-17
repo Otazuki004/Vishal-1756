@@ -23,7 +23,7 @@
 
 # Elite Memes Web
 
-![Random Meme](https://akshay2002singh.github.io/Elite_Memes_Web/index.html?refresh=true)
+![Random Meme](https://akshay2002singh.github.io/Elite_Memes_Web/index.html?)
 
 To view a different meme, refresh the page.
 
