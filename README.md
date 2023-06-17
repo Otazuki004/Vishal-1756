@@ -23,9 +23,7 @@
 
 # Elite Memes Web
 
-![Random Meme](https://akshay2002singh.github.io/Elite_Memes_Web/index.html)
-
-To view a different meme, refresh the page.
+<img src="https://placeimg.com/640/480/any">
 
 
 
