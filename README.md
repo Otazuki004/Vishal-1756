@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
                 ──「 ❣️ᴊᴏɪɴ🌹ғɪʀsᴛ❣️ 」──
 
-⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶ https://t.me/LOVE_FEELINGS_WILL1
+⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶ https://t.me/over_prove1
 
 <p align="center">
   <img src="[https://te.legra.ph/file/73a17caffa6f67e1c86f5.jpg]">
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 &nbsp;Status
 
-[![AROHIxDIL](https://github-stats-alpha.vercel.app/api?username=stkeditz "stkeditz")](https://github-stats-alpha.vercel.app/api?username=stkeditz "stkeditz")
+[![AROHIxDIL](https://github-stats-alpha.vercel.app/api?username=vishal-1756 "vishal-1756")](https://github-stats-alpha.vercel.app/api?username=vishal-1756 "vishal-1756")
 
 
 ## 🌐 Socials:
