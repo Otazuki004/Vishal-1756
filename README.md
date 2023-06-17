@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=stkeditz&icon=7&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vishal-1756&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
