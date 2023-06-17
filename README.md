@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 &nbsp;Status
 
-[![AROHIxDIL](https://github-stats-alpha.vercel.app/api?username=vishal-1756 "vishal-1756")](https://github-stats-alpha.vercel.app/api?username=vishal-1756 "vishal-1756")
+[![BEWAFA](https://github-stats-alpha.vercel.app/api?username=vishal-1756 "vishal-1756")](https://github-stats-alpha.vercel.app/api?username=vishal-1756 "vishal-1756")
 
 
 ## 🌐 Socials:
