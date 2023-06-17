@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"><a href="https://t.me/I_M_BEWAFA"><img src="[https://te.legra.ph/file/535a57eb56d045794fc28.mp4]"></a></p>
+<p align="center"><a href="https://t.me/I_M_BEWAFA"><img src="[[https://te.legra.ph/file/535a57eb56d045794fc28.mp4](https://te.legra.ph/file/5b9e70aa1e1f4a46ddeae.mp4)]"></a></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
