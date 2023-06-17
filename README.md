@@ -18,8 +18,15 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vishal-1756&limit=5&theme=discord&combine_all_yearly_contributions=true)
+
+# Top Committed Repositories - vishal-1756
+
+Below are the top committed repositories of GitHub user vishal-1756:
+
+1. [Repository 1](https://github.com/vishal-1756/repository-1)
+2. [Repository 2](https://github.com/vishal-1756/repository-2)
+3. [Repository 3](https://github.com/vishal-1756/repository-3)
+
 
 # RANDOM KITTEN IMG BY ME 💖
 
