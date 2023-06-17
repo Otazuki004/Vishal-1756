@@ -8,11 +8,11 @@ You can click the Preview link to take a look at your changes.
 ⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶ https://t.me/LOVE_FEELINGS_WILL1
 
 <p align="center">
-  <img src="https://te.legra.ph/file/e68f585a0a2e4e5dc1164.jpg">
+  <img src="[https://te.legra.ph/file/73a17caffa6f67e1c86f5.jpg]">
 </p>
 
 # ❣️ About Me:
-<br>- ❣️ ʜɪ, ɪ'ᴍ sᴀɢᴀʀ ᴛɪᴡᴀʀɪ<br>- ❣️ ɪ ʟɪᴋᴇ ʜᴀᴄᴋɪɴɢ<br>- ❣️ ɪ'ᴍ sᴛɪʟʟ ɪɴ ʟɪᴠᴇ ᴡɪᴛʜ ʏᴏᴜ<br>- ❣️ ᴀᴀʀᴏʜɪ ɪ ʟᴏᴠᴇ ʏᴏᴜ sᴏ ᴍᴜᴄʜ<br>- ❣️ ғɪʀsᴛ ɴ ʟᴀsᴛ ʟᴏᴠᴇ ᴀᴀʀᴏʜɪ
+<br>- ❣️ ʜɪ, ɪ'ᴍ ᴠɪsʜᴀʟ<br>- ❣️ ɪ ʟɪᴋᴇ ʜᴀᴄᴋɪɴɢ<br>- ❣️ ɪ ʟᴏᴠᴇ ʜᴀᴄᴋɪɴɢ<br>- ❣️ ɪ ʟᴏᴠᴇ ᴍʏ ᴘʀᴏJᴇᴄᴛs 🥺
 
 ## 📊 &nbsp;Status
 
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sagartiwari_stk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://m.youtube.com/channel/UCQ_TY7pO5eWLq5nSWU63svg) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.instagram.com/vishal_borse199/] [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PYTHON_GOD546) 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
