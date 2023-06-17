@@ -21,13 +21,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vishal-1756&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
-# Random Meme
+# Elite Memes Web
 
-# Random Dev Meme Generator
+![Random Meme](https://akshay2002singh.github.io/Elite_Memes_Web/index.html?refresh=true)
 
-![Random Dev Meme](https://api.example.com/memes/random?category=dev)
-
-To generate a new random dev meme, refresh the page or [click here](https://api.example.com/memes/random?category=dev).
+To view a different meme, refresh the page.
 
 
 
