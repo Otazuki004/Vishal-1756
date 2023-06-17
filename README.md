@@ -23,7 +23,7 @@
 
 # Elite Memes Web
 
-<img src="https://placeimg.com/640/480/any">
+<img src="http://placekitten.com/200/300">
 
 
 
