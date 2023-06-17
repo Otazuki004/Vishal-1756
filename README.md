@@ -23,29 +23,12 @@
 
 # Random Meme
 
-<div id="random-meme"></div>
+# Random Dev Meme Generator
 
-<script>
-function getRandomMeme() {
-  fetch('https://api.imgflip.com/get_memes')
-    .then(response => response.json())
-    .then(data => {
-      const memes = data.data.memes;
-      const randomIndex = Math.floor(Math.random() * memes.length);
-      const randomMeme = memes[randomIndex];
-      const caption = `<caption>`; // Replace with the actual caption
+![Random Dev Meme](https://api.example.com/memes/random?category=dev)
 
-      const memeElement = document.getElementById('random-meme');
-      memeElement.innerHTML = `
-        ![Random Meme](${randomMeme.url})
+To generate a new random dev meme, refresh the page or [click here](https://api.example.com/memes/random?category=dev).
 
-        Caption: ${caption}
-      `;
-    });
-}
-
-getRandomMeme();
-</script>
 
 
 ---
