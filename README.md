@@ -21,8 +21,32 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vishal-1756&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+# Random Meme
+
+<div id="random-meme"></div>
+
+<script>
+function getRandomMeme() {
+  fetch('https://api.imgflip.com/get_memes')
+    .then(response => response.json())
+    .then(data => {
+      const memes = data.data.memes;
+      const randomIndex = Math.floor(Math.random() * memes.length);
+      const randomMeme = memes[randomIndex];
+      const caption = `<caption>`; // Replace with the actual caption
+
+      const memeElement = document.getElementById('random-meme');
+      memeElement.innerHTML = `
+        ![Random Meme](${randomMeme.url})
+
+        Caption: ${caption}
+      `;
+    });
+}
+
+getRandomMeme();
+</script>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vishal-1756&icon=9&color=5)](https://visitcount.itsvg.in)
